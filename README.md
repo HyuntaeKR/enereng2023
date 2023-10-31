@@ -3,7 +3,7 @@
 ## <span style="color:skyblue">About</span>
 
 * This repository is for the mid-term report project of the 'Energy Engineering' course of Fall 2023 in Korea University.
-* The full paper report can be viewed in the <code>Mid_term_report_HyuntaePark_2020170065.pdf</code> file.
+* The full paper report can be viewed in the <code>Case_Study_of_Wind_Energy_Production_Prediction_using_ARIMA_Model_HyuntaePark.pdf</code> file.
 
 ## <span style="color:skyblue">Abstract</span>
 <span style="font-family:Times New Roman; font-size:12pt">
